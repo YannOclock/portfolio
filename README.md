@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-![Ma tronche](https://avatars.githubusercontent.com/u/54801052?s=120&v=4)
+![Ma tronche](/docs/assets/tronche.png)
 
 You can use the [editor on GitHub](https://github.com/YannOclock/portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
